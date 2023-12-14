@@ -48,7 +48,7 @@ The grading rubric will have two tabs - - AND101 and WEB101. Refer to `AND101` t
 
 In this task, you will be grading sample submissions. As mentioned you do not need to check the source code. Rather, you will only be grading the assignment based on the GIF or video submitted by the student. Follow these steps in executing this task. 
 
-- [ ] Create a copy of your [grading rubric](https://docs.google.com/spreadsheets/d/1QHJM5jPEMFxeXrpjcBi6fN50tZFXW2JWcT_4xTtLc7A). Add your name to the file name _(i.e. Grading Hiring Task 2 + Alyn Rosell)_
+- [ ] Create a copy of your [grading rubric](https://docs.google.com/spreadsheets/d/1QHJM5jPEMFxeXrpjcBi6fN50tZFXW2JWcT_4xTtLc7A/copy). Add your name to the file name _(i.e. Grading Hiring Task 2 + Alyn Rosell)_
 - [ ] Update sharing to anyone with the link can view. Take note of the link and share it with us.
 - [ ] Refer to the following submissions made by your students.
       
