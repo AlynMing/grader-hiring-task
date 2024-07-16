@@ -1,4 +1,4 @@
-### Identifying Features - Android101
+### Identifying Features - Android
 
 CodePath offers an introductory course in Android. In this assignment, students will be submitting a Github repository in our platform. Included in the submission is a demo video (or GIF), the README.md containing the feature checklist and the source code. The video will showcase all the features that the student has implemented or completed in the assignment. The student must also check off the features they completed. 
 
