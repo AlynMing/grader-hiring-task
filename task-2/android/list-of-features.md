@@ -1,6 +1,4 @@
-### Context 
-
-Our AND101 students will work on a project called Wordle. In this project, students will build a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). By the end of this assignment, students are expected to: 
+Our AND102 students will work on a project called Wordle. In this project, students will build a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). By the end of this assignment, students are expected to: 
 
 - Gain more familiarity with the programming language Kotlin
 - Build screen layouts using ConstraintLayout
