@@ -1,34 +1,35 @@
 ### Context 
 
-Our AND101 students will work on a project called Kotlin Debug-a-thon. In this assignment, students will debug and fix a broken app by modifying Kotlin code. By the end of this assignment, students are expected to: 
-- Understand basic Kotlin syntax (variables, functions, classes)
-- Debug basic errors in Android Studio
-- Refactor Kotlin code
+Our AND101 students will work on a project called Wordle. In this project, students will build a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). By the end of this assignment, students are expected to: 
+
+- Gain more familiarity with the programming language Kotlin
+- Build screen layouts using ConstraintLayout
+- Understand how to handle user interaction
+- Understand how to process user input using EditText
+- Understand how to update UI (User Interface) based on user interaction
+
 
 In this task, there is no need for you to check the source code. You will only be referring to the demo submitted by the student. Take note that if the GIF (or video) is not present or there is no way for you to give a score, always set the score to zero. For you to easily grade submissions, you will be using a grading rubric.
 
-### Grading Guide
+### AND102 Assignment: Wordle
 
 All CodePath assignments will have a grading guide. This guide will serve as our basis in giving points - full points or partial points. Check out each feature below and how we should be grading each feature shown in the video. 
 
-**Feature 1: 👋 Debug and fix navigation to Hello World activity**<br>
-When the "Hello World" button is clicked, the app should display a screen with the Hello World text. **Assign 2 points**.
+The following are required features
 
-**Feature 2: 4️⃣ Debug and fix Number Sum (2 + 2) activity**<br>
-When the "Number Sum (2 + 2)" button is clicked, the app should display a screen with the answer: 4. Any other number is acceptable as long as it is the sum of the numbers shown in the button. **Assign 2 points**
+- [ ] **User has 3 chances to guess a random 4 letter word** 
+- [ ] **After 3 guesses, user should no longer be able to submit another guess**
+- [ ] **After each guess, user sees the "correctness" of the guess**
+- [ ] **After all guesses are taken, user can see the target word displayed**
 
-**Feature 3: 📅  Debug and fix Current Day activity**<br>
-When the "Current Day" button is clicked, the app should display a screen with current day of the week. Any number between 1 or 31 is acceptable. **Assign 3 points.**
+The following are optional features.
 
-**Feature 4: 🌈 Debug and fix behavior of Random Color activity**<br>
-When the "Random Color" button is clicked, the app should display a white screen that changes color each time the screen is clicked. **Assign 1 point if only one color other than white is shown. Assign 2 points if atleast two colors other white are shown**. 
-
-**Feature 5: 🗒️ Debug and fix Print List activity**<br>
-When the "Print List" button is clicked, the app should display a screen with the words "this is your standard immutable list" printed, one word per line. **Assign 3 points**.
-
-**Feature 6: 💯 Debug and fix Favorite Number activity**<br>
-When the "Favorite Number" button is clicked, the app should display a screen with the student's favorite number. Any number is acceptale. **Assign 3 points.**
-
+- [ ] User can toggle betweeen different word lists
+- [ ] User can see the 'correctness' of their guess through colors on the word 
+- [ ] User sees a visual change after guessing the correct word
+- [ ] User can tap a 'Reset' button to get a new word and clear previous guesses
+- [ ] User will get an error message if they input an invalid guess
+- [ ] User can see a 'streak' record of how many words they've guessed correctly.
 
 ### Grading Rubric
 
