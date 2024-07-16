@@ -5,7 +5,7 @@ CodePath offers another introductory course in Web (WEB101). In this assignment,
 Get a glimpse of how students make their assignment by following these steps!
 
 ### Step 1: Share your idea about what a grader does!
-💡 It is important to have clear understanding of this role. It will help you set your expectation and identify different ways you can efficiently deliver your tasks. To help us understand your expectations, kindly follow the instruction stated below.
+💡 It is important to have clear understanding of this role. It will help you set your expectation and identify different ways you can efficiently deliver your tasks. To help us understand your expectations, kindly follow the instructions stated below.
 
 **Instructions:** 
 - [ ] Make a copy of this [document](https://docs.google.com/document/d/1691RdlVPLXOZuggN1txu17X7-S7i-ciD9iPEnmWvZBI/copy).
@@ -25,7 +25,7 @@ Replit is an online integrated development environment (IDE), which is a fancy t
 - [ ] In your index.html file create a simple sign up form with the fields listed below. **It is not required to set functuality of your sign-up form.**
     - [ ] Email Address (an input field)
     - [ ] Password (an input field)
-    - [ ] Sign up button 
+    - [ ] Sign up button (this does not need to have functionality)
 - [ ] Add a css file, set the name to `sign-up.css`. Link this file to your index.html.
 - [ ] Add styling to your sign-up form. All styles must be in the `sign-up.css` file.
 
