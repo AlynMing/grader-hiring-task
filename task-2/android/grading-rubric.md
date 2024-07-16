@@ -20,11 +20,11 @@ In this task, you will be grading sample submissions. As mentioned you do not ne
 - [ ] Update sharing to anyone with the link can view. Take note of the link and share it with us.
 - [ ] Refer to the following submissions made by your students.
       
-  - [Student 1: AND101-01](https://github.com/AlynMing/AND101-01)
-  - [Student 2: AND101-02](https://github.com/AlynMing/AND101-02)
-  - [Student 3: AND101-03](https://github.com/AlynMing/AND101-03)
-  - [Student 4: AND101-04](https://github.com/AlynMing/AND101-04)
-  - [Student 5: AND101-05](https://github.com/AlynMing/AND101-05)
+  - [Student A](https://github.com/AlynMing/and102-studenta)
+  - [Student B](https://github.com/AlynMing/and102-studetntb)
+  - [Student C](https://github.com/AlynMing/and102-studentc)
+  - [Student D](https://github.com/AlynMing/and102-studentd)
+  - [Student E](https://github.com/AlynMing/and102-studente)
       
 - [ ] Evaluate the README of each submission. Check the box if the README is correct. 
 - [ ] Evaluate the GIF. Check the box if the feature is shown in the demo. 
