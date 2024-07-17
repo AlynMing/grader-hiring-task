@@ -11,16 +11,16 @@ In this task, there is no need for you to check the source code. You will only b
 
 ### AND102 Assignment: Wordle
 
-All CodePath assignments will have a grading guide. This guide will serve as our basis in giving points - full points or partial points. Check out each feature below and how we should be grading each feature shown in the video. 
+These are the features that the students will work on this assignment. 
 
-The following are required features
+The following are **required** features
 
 - [ ] **User has 3 chances to guess a random 4 letter word** 
 - [ ] **After 3 guesses, user should no longer be able to submit another guess**
 - [ ] **After each guess, user sees the "correctness" of the guess**
 - [ ] **After all guesses are taken, user can see the target word displayed**
 
-The following are optional features.
+The following are **optional** features.
 
 - [ ] User can toggle betweeen different word lists
 - [ ] User can see the 'correctness' of their guess through colors on the word 
