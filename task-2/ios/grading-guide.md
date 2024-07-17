@@ -44,5 +44,5 @@ Note: Students without a physical device will not be able to demo taking a pictu
 
 Sample GIF showing this feature:
 
-<img src="https://github.com/AlynMing/grader-hiring-task/blob/main/task-2/ios/res/addingPhotos.gif" width="150" height="300">
+<img src="https://github.com/AlynMing/grader-hiring-task/blob/main/task-2/ios/res/addingPhotos.gif" width="200" height="300">
 
