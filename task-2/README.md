@@ -6,4 +6,4 @@ We've have five different submissions from our students which you need to grade.
 
 In this task, you will be grading the students using a spreadsheet but in actual scenario, you will use the company platform to grade assignments. 
 
-Go over the files in each folder. Read each thoroughly. The main task in each folder is found in grading-rubric.md. Make sure to complete the tasks for both Android and Web. 
+Go over the files in each folder. Read each thoroughly. The main task in each folder is found in grading-rubric.md. Make sure to complete the tasks for both Android and iOS. 
